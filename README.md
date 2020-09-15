@@ -20,7 +20,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Blender3D" width="26px" src="https://www.iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" />
 <img align="left" alt="Unity3D" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png" />
-<img align="left" alt="ZBrush" width="26px" src="https://e1.pngegg.com/pngimages/522/391/png-clipart-simply-styled-icon-set-731-icons-free-zbrush-alt-zbrush-icon-thumbnail.png" />
 <img align="left" alt="Photoshop CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/616px-Adobe_Photoshop_CC_icon.svg.png" />
 
 <br />
