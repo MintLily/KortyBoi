@@ -32,7 +32,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&langs_count=8)
+  ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=material-palenight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&langs_count=8&theme=material-palenight)
 
 </details>
 
