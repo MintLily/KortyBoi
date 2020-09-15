@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan - aka [KortyBoi][website] 👋
 
-[![Website](https://img.shields.io/website?label=KortyBoi.com&style=for-the-badge&url=https%3A%2F%2FKortyBoi.com)](https://KortyBoi.com)
+[![Website](https://img.shields.io/website?label=KortyBoi.com&style=for-the-badge&url=https%3A%2F%2FKortyBoi.com)](https://KortyBoi.com) [![Website](https://img.shields.io/website?label=KortyServers.xyz&style=for-the-badge&url=https%3A%2F%2FKortyServers.xyz)](https://KortyServers.xyz) https://img.shields.io/static/v1?label=KortyBoi&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord
 
 ## I am a Game Art Developer, mod creator, and student
 
