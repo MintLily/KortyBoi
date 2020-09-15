@@ -28,20 +28,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&layout=compact)](https://github.com/KortyBoi)
-
-</details>
-
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&layout=compact)](https://github.com/KortyBoi)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&layout=compact)
   
-  <br />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi)](https://github.com/KortyBoi)
+  ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=Gradient)
 
 </details>
 
