@@ -6,7 +6,7 @@
 
 - I am currently working on LoliteUtilityMod, which is a mod for VRChat to make the game more playable.
 - In my off time, I work on my game ExploreVR, which is an open world VR:MMO:RPG with heavy inspiration from two book series.  [Awaken Online](https://www.audible.com/series/Awaken-Online-Audiobooks/B06XWGV4RJ?ref=a_library_t_c5_libItem_series_1&pf_rd_p=592f90bd-7f7b-4bfc-afa2-b002e52e7228&pf_rd_r=A53TTW0SVREH40N6GQMS) and [Ascend Online](https://www.audible.com/series/Ascend-Online-Audiobooks/B073R57497?ref=a_library_t_c5_libItem_series_1&pf_rd_p=592f90bd-7f7b-4bfc-afa2-b002e52e7228&pf_rd_r=A53TTW0SVREH40N6GQMS)
-
+---
 <br />
 
 ### Languages and Tools
@@ -32,6 +32,7 @@
   <summary>:zap: Github Stats</summary>
 
   ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=material-palenight)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&langs_count=8&theme=material-palenight)
 
 </details>
