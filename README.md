@@ -18,6 +18,10 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Blender3D" width="26px" src="https://www.iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" />
+<img align="left" alt="Unity3D" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png" />
+<img align="left" alt="ZBrush" width="26px" src="https://i1.pngguru.com/preview/522/391/796/simply-styled-icon-set-731-icons-free-zbrush-alt-zbrush-icon-png-clipart.jpg" />
+<img align="left" alt="Photoshop CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/616px-Adobe_Photoshop_CC_icon.svg.png" />
 
 <br />
 
@@ -28,9 +32,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&layout=compact) ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=Gradient)
   
-  ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=Gradient)
+  ;![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=Gradient)
 
 </details>
 
