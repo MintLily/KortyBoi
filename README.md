@@ -1,4 +1,4 @@
-### Hi there, I'm Jordan - aka [KortyBoi][website] 👋
+### Hi there, I'm Lily - aka [KortyBoi][website] or just **Korty** 👋
 
 [![Website](https://img.shields.io/website?label=KortyBoi.com&style=for-the-badge&url=https%3A%2F%2FKortyBoi.com)](https://KortyBoi.com) [![Website](https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com)](https://bslegacy.com) [![Website](https://img.shields.io/website?label=lolite.xyz&style=for-the-badge&url=https%3A%2F%2Flolite.xyz)](https://lolite.xyz) [![Discord](https://img.shields.io/static/v1?label=KortyBoi&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord)](https://discord.com/users/167335587488071682)
 
