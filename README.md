@@ -11,7 +11,7 @@
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio 2019" width="26px" src="https://kortyboi.com/img/icons/github/vs2019.png" />
-<img align="left" alt="JetBrains Rider" width="26px" src="https://kortyboi.com/img/icons/github/Rider.png" />
+<img align="left" alt="JetBrains Rider" width="26px" src="https://kortyboi.com/img/icons/github/rider.png" />
 <img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="https://kortyboi.com/img/icons/github/IntelliJ.png" />
 <img align="left" alt="HTML5" width="26px" src="https://kortyboi.com/img/icons/github/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://kortyboi.com/img/icons/github/css.png" />
