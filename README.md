@@ -32,9 +32,9 @@
   
   <br />
 
-  ![KortyBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KortyBoi&count_private=true&show_icons=true&theme=material-palenight)
+  ![Lily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MintLily&count_private=true&show_icons=true&theme=material-palenight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KortyBoi&langs_count=8&theme=material-palenight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintLily&langs_count=8&theme=material-palenight)
 
 </details>
 
