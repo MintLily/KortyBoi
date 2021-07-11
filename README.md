@@ -1,6 +1,6 @@
 ### Hi there, I'm Lily - formally [KortyBoi][website] or just *Korty* 👋
 
-[![Website](https://img.shields.io/website?label=KortyBoi.com&style=for-the-badge&url=https%3A%2F%2FKortyBoi.com)](https://KortyBoi.com) [![Website](https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com)](https://bslegacy.com) [![Discord](https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord)](https://discord.com/users/167335587488071682)
+[![Website](https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt)](https://MintLily.lgbt) [![Website](https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com)](https://bslegacy.com) [![Discord](https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord)](https://discord.com/users/167335587488071682)
 
 ## I am a Game Art Developer, Game Tinkerer, and Student
 - I like to create props and levels for various projects whether it's for myself, friends, or game studios.
@@ -10,16 +10,16 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://kortyboi.com/old-site/img/icons/github/vs2019.png" />
-<img align="left" alt="JetBrains Rider" width="26px" src="https://kortyboi.com/old-site/img/icons/github/rider.png" />
-<img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="https://kortyboi.com/old-site/img/icons/github/IntelliJ.png" />
-<img align="left" alt="HTML5" width="26px" src="https://kortyboi.com/old-site/img/icons/github/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://kortyboi.com/old-site/img/icons/github/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://kortyboi.com/old-site/img/icons/github/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://kortyboi.com/old-site/img/icons/github/github.png" />
-<img align="left" alt="Blender3D" width="26px" src="https://kortyboi.com/old-site/img/icons/github/Blender.ico" />
-<img align="left" alt="Unity3D" width="26px" src="https://kortyboi.com/old-site/img/icons/github/unity.png" />
-<img align="left" alt="Photoshop CC" width="26px" src="https://kortyboi.com/old-site/img/icons/github/photoshop.png" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="[Website]img/icons/github/vs2019.png" />
+<img align="left" alt="JetBrains Rider" width="26px" src="[Website]img/icons/github/rider.png" />
+<img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="[Website]img/icons/github/IntelliJ.png" />
+<img align="left" alt="HTML5" width="26px" src="[Website]img/icons/github/html.png" />
+<img align="left" alt="CSS3" width="26px" src="[Website]img/icons/github/css.png" />
+<img align="left" alt="Node.js" width="26px" src="[Website]img/icons/github/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="[Website]img/icons/github/github.png" />
+<img align="left" alt="Blender3D" width="26px" src="[Website]img/icons/github/Blender.ico" />
+<img align="left" alt="Unity3D" width="26px" src="[Website]img/icons/github/unity.png" />
+<img align="left" alt="Photoshop CC" width="26px" src="[Website]img/icons/github/photoshop.png" />
 
 <br />
 
@@ -38,4 +38,4 @@
 
 </details>
 
-[website]: https://KortyBoi.com
+[website]: https://MintLily.lgbt/
