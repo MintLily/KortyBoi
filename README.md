@@ -10,16 +10,16 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="[Website]img/icons/github/vs2019.png" />
-<img align="left" alt="JetBrains Rider" width="26px" src="[Website]img/icons/github/rider.png" />
-<img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="[Website]img/icons/github/IntelliJ.png" />
-<img align="left" alt="HTML5" width="26px" src="[Website]img/icons/github/html.png" />
-<img align="left" alt="CSS3" width="26px" src="[Website]img/icons/github/css.png" />
-<img align="left" alt="Node.js" width="26px" src="[Website]img/icons/github/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="[Website]img/icons/github/github.png" />
-<img align="left" alt="Blender3D" width="26px" src="[Website]img/icons/github/Blender.ico" />
-<img align="left" alt="Unity3D" width="26px" src="[Website]img/icons/github/unity.png" />
-<img align="left" alt="Photoshop CC" width="26px" src="[Website]img/icons/github/photoshop.png" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
+<img align="left" alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
+<img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="https://MintLily.lgbt/img/icons/github/IntelliJ.png" />
+<img align="left" alt="HTML5" width="26px" src="https://MintLily.lgbt/img/icons/github/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://MintLily.lgbt/img/icons/github/css.png" />
+<img align="left" alt="Node.js" width="26px" src="https://MintLily.lgbt/img/icons/github/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://MintLily.lgbt/img/icons/github/github.png" />
+<img align="left" alt="Blender3D" width="26px" src="https://MintLily.lgbt/img/icons/github/Blender.ico" />
+<img align="left" alt="Unity3D" width="26px" src="https://MintLily.lgbt/img/icons/github/unity.png" />
+<img align="left" alt="Photoshop CC" width="26px" src="https://MintLily.lgbt/img/icons/github/photoshop.png" />
 
 <br />
 
