@@ -1,6 +1,13 @@
-### Hi there, I'm Lily - formally [KortyBoi][website] or just *Korty* 👋
+### Hi there, I'm Lily :wave:
+<p>
+  I am a 23 year old, Bigender <img alt="Bigender Flag Icon" height="20px" src="https://MintLily.lgbt/img/icons/github/bigender_flag.png" />, Game Art Student that does some coding in my spare time. This consists of game modding, front-end web development, Discord bot creation, and more. I like to play games; don't really know what genre I like. So far, my long term goal is to finish school, and work on a project (game), that I started a little while back, inspired by two book series I really enjoyed reading. Some might say it's unfortunate, but the most hours I have in a single game is <a href="https://vrchat.com/" target="_blank">VRChat</a>.
+</p>
 
-[![Website](https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt)](https://MintLily.lgbt) [![Website](https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com)](https://bslegacy.com) [![Discord](https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord)](https://discord.com/users/167335587488071682)
+<p align="center">
+  <a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
+  <a href="https://bslegacy.com" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
+  <a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
+</p>
 
 ## I am a Game Art Developer, Game Tinkerer, and Student
 - I like to create props and levels for various projects whether it's for myself, friends, or game studios.
@@ -8,34 +15,31 @@
 - I am a full-time student in college currently enrolled into the Game Art Dev program at [SNHU](https://snhu.edu/)
 ---
 
-### Languages and Tools
-
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
-<img align="left" alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
-<img align="left" alt="JetBrains IntelliJ IDEA" width="26px" src="https://MintLily.lgbt/img/icons/github/IntelliJ.png" />
-<img align="left" alt="HTML5" width="26px" src="https://MintLily.lgbt/img/icons/github/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://MintLily.lgbt/img/icons/github/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://MintLily.lgbt/img/icons/github/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://MintLily.lgbt/img/icons/github/github.png" />
-<img align="left" alt="Blender3D" width="26px" src="https://MintLily.lgbt/img/icons/github/Blender.ico" />
-<img align="left" alt="Unity3D" width="26px" src="https://MintLily.lgbt/img/icons/github/unity.png" />
-<img align="left" alt="Photoshop CC" width="26px" src="https://MintLily.lgbt/img/icons/github/photoshop.png" />
-
-<br />
-
----
-
-<br />
-
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Github Stats (Click to expand)</summary>
   
   <br />
-
-  ![Lily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MintLily&count_private=true&show_icons=true&theme=material-palenight)
+  <p align="center">
+    <img alt="Lily's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MintLily&count_private=true&show_icons=true&theme=material-palenight" />
+  </p>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintLily&langs_count=8&theme=material-palenight)
+  <p align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintLily&langs_count=8&theme=material-palenight" />
+  </p>
 
 </details>
+
+<p align="center">
+  <img alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
+  <img alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
+  <img alt="JetBrains IntelliJ IDEA" width="26px" src="https://MintLily.lgbt/img/icons/github/IntelliJ.png" />
+  <img alt="HTML5" width="26px" src="https://MintLily.lgbt/img/icons/github/html.png" />
+  <img alt="CSS3" width="26px" src="https://MintLily.lgbt/img/icons/github/css.png" />
+  <img alt="Node.js" width="26px" src="https://MintLily.lgbt/img/icons/github/nodejs.png" />
+  <img alt="GitHub" width="26px" src="https://MintLily.lgbt/img/icons/github/github.png" />
+  <img alt="Blender3D" width="26px" src="https://MintLily.lgbt/img/icons/github/Blender.ico" />
+  <img alt="Unity3D" width="26px" src="https://MintLily.lgbt/img/icons/github/unity.png" />
+  <img alt="Photoshop CC" width="26px" src="https://MintLily.lgbt/img/icons/github/photoshop.png" />
+</p>
 
 [website]: https://MintLily.lgbt/
