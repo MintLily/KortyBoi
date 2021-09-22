@@ -7,7 +7,7 @@
   <a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
   <a href="https://bslegacy.com" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
   <a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
-  <img src="https://img.shields.io/static/v1?label=Pronouns&message=he/she&color=E6A1FF&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" />
 </p>
 
 ## I am a Game Art Developer, Game Tinkerer, and Student
