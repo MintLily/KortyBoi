@@ -1,6 +1,6 @@
 ### Hi there, I'm Lily :wave: <img alt="Trangender Flag Icon" height="21px" src="https://MintLily.lgbt/img/icons/github/Trans_Flag.png" />
 <p>
-  I am a 23 year old, MtF Transgender girl, Game Art Student that does some coding in my spare time. This consists of game modding, front-end web development, Discord bot creation, and more. I like to play games; don't really know what genre I like. So far, my long term goal is to finish school, and work on a project (game), that I started a little while back, inspired by two book series I really enjoyed reading. Some might say it's unfortunate, but the most hours I have in a single game is <a href="https://vrchat.com/" target="_blank">VRChat</a>.
+  I am a 24 year old, MtF Transgender girl, Game Art Student that does some coding in my spare time. This consists of game modding, front-end web development, Discord bot creation, and more. I like to play games; don't really know what genre I like. So far, my long term goal is to finish school, and work on a project (game), that I started a little while back, inspired by two book series I really enjoyed reading. Some might say it's unfortunate, but the most hours I have in a single game is <a href="https://vrchat.com/" target="_blank">VRChat</a>.
 </p>
 
 <p align="center">
