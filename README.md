@@ -1,53 +1,36 @@
-### Hi there, I'm Lily :wave: <img alt="Trangender Flag Icon" height="21px" src="https://MintLily.lgbt/img/icons/github/Trans_Flag.png" />
-<p>
-  I am a 24 year old, MtF Transgender girl, Game Art Student that does some coding in my spare time. This consists of game modding, front-end web development, Discord bot creation, and more. I like to play games; don't really know what genre I like. So far, my long term goal is to finish school, and work on a project (game), that I started a little while back, inspired by two book series I really enjoyed reading. Some might say it's unfortunate, but the most hours I have in a single game is <a href="https://vrchat.com/" target="_blank">VRChat</a>. But with the recent <a href="https://docs.vrchat.com/docs/vrchat-202222" target="_blank">EAC</a> update, I will be modding <a href="https://abinteractive.net" target="">ChilloutVR</a> from now on.
-</p>
+<h1 align="center">Hi 👋, I'm Lily</h1>
+<h3 align="center">A basic transgender coder, probably doing something questionable.</h3>
 
 <p align="center">
-  <a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
-  <a href="https://bslegacy.com" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
-  <a href="https://emmcvr.com" target="_blank"><img alt="Third Website" src="https://img.shields.io/website?label=emmcvr.com&style=for-the-badge&url=https%3A%2F%2Femmcvr.com" /></a>
-  <a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
-  <img src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" />
+	<a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
+	<a href="https://bslegacy.com" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
+	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
+	<img src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" />
 </p>
 
-## I am a Game Art Developer, Game Modder
-- I like to create props and levels for various projects whether it's for myself, friends, or game studios.
-- In my free time, I work on my game ExploreVR, which is an open world VR:MMO:RPG with heavy inspiration from two book series.  [Awaken Online](https://www.audible.com/series/Awaken-Online-Audiobooks/B06XWGV4RJ?ref=a_library_t_c5_libItem_series_1&pf_rd_p=592f90bd-7f7b-4bfc-afa2-b002e52e7228&pf_rd_r=A53TTW0SVREH40N6GQMS) and [Ascend Online](https://www.audible.com/series/Ascend-Online-Audiobooks/B073R57497?ref=a_library_t_c5_libItem_series_1&pf_rd_p=592f90bd-7f7b-4bfc-afa2-b002e52e7228&pf_rd_r=A53TTW0SVREH40N6GQMS)
-- My current goal is to find a carrer in an I.T., or related, field.
----
+<ul>
+    <li>🔭 I’m currently working on <a href="https://git.ellyvr.dev/Lily/giver-of-head-pats" target="_blank">Giver of Head Pats</a></li>
+    <li>🌱 I’m currently learning <b>various home lab things</b></li>
+    <li>👯 I’m currently collaborating on <a href="https://github.com/TotallyWholesomeVRC" target="_blank">Totally Wholesome</a></li>
+    <li>👨‍💻 Almost all of my projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a></li>
+    <li>⚡Fun fact <b>I love head pats and cuddles</b></li>
+</ul>
 
-<details>
-  <summary>:zap: Github Stats (Click to expand)</summary>
-  
-  <br />
-  <p align="center">
-    <img alt="Lily's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MintLily&count_private=true&show_icons=true&theme=material-palenight" />
-  </p>
-  
-  <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintLily&langs_count=8&theme=material-palenight" />
-  </p>
-  
-  <p align="center">
-    <img alt="" src="https://komarev.com/ghpvc/?username=mintlily&color=brightgreen&style=flat-square" />
-  </p>
-  
-  <br />
-</details>
-
-<p align="center">
-  <img alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
-  <img alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
-  <img alt="JetBrains IntelliJ IDEA" width="26px" src="https://MintLily.lgbt/img/icons/github/IntelliJ.png" />
-  <img alt="HTML5" width="26px" src="https://MintLily.lgbt/img/icons/github/html.png" />
-  <img alt="CSS3" width="26px" src="https://MintLily.lgbt/img/icons/github/css.png" />
-  <img alt="Node.js" width="26px" src="https://MintLily.lgbt/img/icons/github/nodejs.png" />
-  <img alt="GitHub" width="26px" src="https://MintLily.lgbt/img/icons/github/github.png" />
-  <img alt="Blender3D" width="26px" src="https://MintLily.lgbt/img/icons/github/Blender.ico" />
-  <img alt="Unity3D" width="26px" src="https://MintLily.lgbt/img/icons/github/unity.png" />
-  <img alt="Photoshop CC" width="26px" src="https://MintLily.lgbt/img/icons/github/photoshop.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mintliiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a>
 </p>
 
-[website]: https://MintLily.lgbt/
-![](https://hit.yhype.me/github/profile?user_id=22991790)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://jb.gg/OpenSourceSupport" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" alt="Rider" width="40" height="40"/> </a> <a href="https://jb.gg/OpenSourceSupport" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="40" height="40"/> </a> <a href="https://jb.gg/OpenSourceSupport" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PhpStorm" width="40" height="40"/> </a> <a href="https://jb.gg/OpenSourceSupport" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/dotPeek_icon.svg" alt="dotPeek" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/MintLily"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MintLily" /></a></p><br><br>
+
+<p align="center"><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en&layout=compact" alt="mintlily" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=mintlily&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en" alt="mintlily" />
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=mintlily&label=Profile%20views&color=4b8d9b&style=flat-square" alt="mintlily" />
+</p>
