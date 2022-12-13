@@ -13,7 +13,7 @@
 <p>
 	🔭 I’m currently working on <a href="https://git.ellyvr.dev/Lily/giver-of-head-pats" target="_blank">Giver of Head Pats</a><br>
 	🌱 I’m currently learning <b>various home lab things</b><br>
-	👯 I’m currently collaborating on <a href="https://github.com/TotallyWholesomeVRC" target="_blank">Totally Wholesome</a><br>
+	👯 I’m currently collaborating on <a href="https://github.com/TotallyWholesomeVRC" target="_blank">Totally Wholesome</a> & <a href="https://vrdancing.club/" target="_blank">VRDancing</a><br>
 	👨‍💻 Almost all of my projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, and the other is <a href="https://git.ellyvr.dev/Lily" target="_blank">here (GitLab)</a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
