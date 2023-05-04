@@ -3,7 +3,8 @@
 
 <p align="center">
 	<a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
-	<a href="https://bslegacy.com" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
+	<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
+	<a href="https://bslegacy.com" target="_blank"><img alt="Beat Saber Legacy Group Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
 	<a href="https://totallywholeso.me" target="_blank"><img alt="Wholesome Site" src="https://img.shields.io/website?label=totallywholeso.me%20%28R-18%2B%29&style=for-the-badge&url=https%3A%2F%2Ftotallywholeso.me" /></a>
 	<br>
 	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
@@ -34,9 +35,9 @@
 <p><a href="https://ko-fi.com/MintLily"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MintLily" /></a></p><br><br>
 
 <p align="center"><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en&layout=compact" alt="mintlily" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en&layout=compact" alt="mintlily" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=mintlily&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en" alt="mintlily" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en" alt="mintlily" />
     <br />
     <img src="https://komarev.com/ghpvc/?username=mintlily&label=Profile%20views&color=4b8d9b&style=flat-square" alt="mintlily" />
 </p>
