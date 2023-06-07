@@ -6,7 +6,7 @@
 	<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
 	<a href="https://totallywholeso.me" target="_blank"><img alt="Wholesome Site" src="https://img.shields.io/website?label=totallywholeso.me%20%28R-18%2B%29&style=for-the-badge&url=https%3A%2F%2Ftotallywholeso.me" /></a>
 	<br>
-	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
+	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Discord&message=mintlily&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
 	<a href="https://ppl.moe/u/mintlily" target="_blank"><img alt="Pronouns: she/her" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" /><a/>
 </p>
 
