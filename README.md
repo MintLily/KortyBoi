@@ -4,7 +4,6 @@
 <p align="center">
 	<a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
 	<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
-	<a href="https://bslegacy.com" target="_blank"><img alt="Beat Saber Legacy Group Website" src="https://img.shields.io/website?label=bslegacy.com&style=for-the-badge&url=https%3A%2F%2Fbslegacy.com" /></a>
 	<a href="https://totallywholeso.me" target="_blank"><img alt="Wholesome Site" src="https://img.shields.io/website?label=totallywholeso.me%20%28R-18%2B%29&style=for-the-badge&url=https%3A%2F%2Ftotallywholeso.me" /></a>
 	<br>
 	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=MintLily&message=%230001&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
@@ -12,16 +11,16 @@
 </p>
 
 <p>
-	🔭 I’m currently working on <a href="https://git.ellyvr.dev/Lily/giver-of-head-pats" target="_blank">Giver of Head Pats</a><br>
-	🌱 I’m currently learning <b>various home lab things</b><br>
-	👯 I’m currently collaborating on <a href="https://github.com/TotallyWholesomeVRC" target="_blank">Totally Wholesome</a> & <a href="https://vrdancing.club/" target="_blank">VRDancing</a><br>
-	👨‍💻 Almost all of my projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, some are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organiziation, and the rest is <a href="https://git.ellyvr.dev/Lily" target="_blank">here (GitLab)</a><br>
+	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a><br>
+	🌱 I’m currently learning <b>various home lab things</b>, and maybe some TypeScript soon™<br>
+	👯 I’m currently collaborating on <a href="https://github.com/MayuVR" target="_blank">MayuVR</a> & <a href="https://vrdancing.club/" target="_blank">VRDancing</a><br>
+	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organiziation<br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mintliiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a>
+	<a href="https://twitter.com/mintliiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programs/Tools, Languages, Operating Systems</h3>
