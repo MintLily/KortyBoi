@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://twitter.com/mintliiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a>
+	<a href="https://discord.gg/Qg9eVB34sq" target="blank"><img align="center" src="https://i.mintlily.lgbt/DiscordLogo.png" alt="mintlily" height="40" width="40" /></a> <a href="https://twitter.com/mintliiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a> <a href="https://www.threads.net/@mintylabs_lily" target="blank"><img align="center" src="https://i.mintlily.lgbt/threads_icon.png" alt="mintylabs_lily" height="40" width="42" /></a>
 </p>
 
 <h3 align="left">Programs/Tools, Languages, Operating Systems</h3>
