@@ -4,7 +4,7 @@
 <p align="center">
 	<a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
 	<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
-	<a href="https://totallywholeso.me" target="_blank"><img alt="Wholesome Site" src="https://img.shields.io/website?label=totallywholeso.me%20%28R-18%2B%29&style=for-the-badge&url=https%3A%2F%2Ftotallywholeso.me" /></a>
+	<a href="https://mili.lgbt" target="_blank"><img alt="Carrd" src="https://img.shields.io/website?label=mili.lgbt&style=for-the-badge&url=https%3A%2F%2Fmili.lgbt" /></a>
 	<br>
 	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Discord&message=mintlily&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
 	<a href="https://mili.lgbt/pronouns" target="_blank"><img alt="Pronouns: she/her" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" /><a/>
@@ -13,8 +13,9 @@
 <p>
 	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a><br>
 	🌱 I’m currently learning <b>various home lab things</b>, and maybe some TypeScript soon™<br>
-	👯 I’m currently collaborating on <a href="https://github.com/MayuVR" target="_blank">MayuVR</a> & <a href="https://vrdancing.club/" target="_blank">VRDancing</a><br>
-	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organiziation<br>
+	👯 I’m currently collaborating on <a href="https://vrdancing.club/" target="_blank">VRDancing</a>'s Discord Bot<br>
+	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization<br>
+	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla</a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater</a>, <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil</a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
 
@@ -31,12 +32,14 @@
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://i.mintlily.lgbt/win.svg" alt="windows" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/MintLily"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MintLily" /></a></p><br><br>
+<p>
+	<a href="https://ko-fi.com/MintLily"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="150" alt="MintLily's Ko-fi Page" /></a>
+</p><br><br>
 
 <p align="center"><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en&layout=compact" alt="mintlily" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=EECCE0&text_color=eeeeee&bg_color=191F22&hide_border=true&locale=en&layout=compact" alt="mintlily" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=d3eee3&text_color=eeeeee&bg_color=493d57&hide_border=true&locale=en" alt="mintlily" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mintlily&count_private=true&show_icons=false&theme=dracula&title_color=EECCE0&text_color=eeeeee&bg_color=191F22&hide_border=true&locale=en" alt="mintlily" />
     <br />
-    <img src="https://komarev.com/ghpvc/?username=mintlily&label=Profile%20views&color=4b8d9b&style=flat-square" alt="mintlily" />
+    <img src="https://komarev.com/ghpvc/?username=mintlily&label=Profile%20views&color=906D92&style=flat-square" alt="mintlily" />
 </p>
