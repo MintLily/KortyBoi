@@ -11,9 +11,9 @@
 </p>
 
 <p>
-	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a><br>
+	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a>, <a href="https://github.com/Minty-Labs/Michiru" target="_blank">Michiru</a>, and <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a><br>
 	🌱 I’m currently learning <b>various home lab things</b>, and maybe some TypeScript soon™<br>
-	👯 I’m currently collaborating on <a href="https://vrdancing.club/?ref=GitHub%3A%20%40MintLily" target="_blank">VRDancing</a>'s Discord Bot<br>
+	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization<br>
 	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla</a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater</a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, Animation Toggle Generator), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
@@ -23,6 +23,7 @@
 <p align="left">
 	<a href="https://discord.gg/Qg9eVB34sq" target="blank"><img align="center" src="https://i.mintlily.lgbt/DiscordLogo.png" alt="mintlily" height="40" width="40" /></a>
 	<a href="https://x.com/mintliiy?ref=GitHub%3A%20%40MintLily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mintliiy" height="30" width="40" /></a>
+	<a href="https://bsky.app/profile/mintlily.lgbt?ref=GitHub%3A%20%40MintLily" target="_blank"><img align="center" src="https://img.mili.lgbt/bluesky-icon.png" alt="Bluesky Logo Icon" height="30" /></a>
 </p>
 
 <h3 align="left">Asset Stores</h3>
@@ -35,13 +36,12 @@
 <h3 align="left">Programs/Tools, Languages, Operating Systems</h3>
 <p>
 	<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+	&nbsp;<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/unity3d-logo.png" alt="unity" width="40" height="40"/></a>
 	&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 	&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-	&nbsp;<a href="https://ifttt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/></a>
 	&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/Illustrator.png" alt="illustrator" width="40" height="40"/></a>
 	&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/Photoshop.png" alt="photoshop" width="40" height="40"/></a>
 	&nbsp;<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-	&nbsp;<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/unity3d-logo.png" alt="unity" width="40" height="40"/></a>
 	&nbsp;<a href="https://jb.gg/OpenSourceSupport?ref=GitHub%3A%20%40MintLily" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" alt="Rider" width="40" height="40"/></a>
 	&nbsp;<a href="https://jb.gg/OpenSourceSupport?ref=GitHub%3A%20%40MintLily" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/dotPeek_icon.svg" alt="dotPeek" width="40" height="40"/></a>
 	&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" width="40" height="40"/></a>
